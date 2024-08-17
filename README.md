@@ -10,7 +10,7 @@
    - Запустите запись на компьютере.
    - Завершите запись на телефоне (сначала включите запись на компьютере, затем остановите её на телефоне).
 3. **Проверка компьютера**:
-   - **Показать автозагрузку** (Диспетчер задач):
-https://github.com/somearchive/sa-mp-proof-i-m-legit/blob/main/pictures/scheduler.png
+   - **Показать автозагрузку** (Диспетчер задач): ![task_manager](https://github.com/somearchive/sa-mp-proof-i-m-legit/blob/main/pictures/task_manager.png)
    - **Показать планировщик задач**:
      - Откройте планировщик задач через комбинацию клавиш `WIN + R` и введите команду `taskschd.msc`.
+       ![task_manager](https://github.com/somearchive/sa-mp-proof-i-m-legit/blob/main/pictures/scheduler.png)
