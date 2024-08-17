@@ -11,6 +11,6 @@
    - Завершите запись на телефоне (сначала включите запись на компьютере, затем остановите её на телефоне).
 3. **Проверка компьютера**:
    - **Показать автозагрузку** (Диспетчер задач):
-![Иллюстрация к проекту](https://github.com/somearchive/sa-mp-proof-i-m-legit/raw/master/pictures/scheduler.png)
+https://github.com/somearchive/sa-mp-proof-i-m-legit/blob/main/pictures/scheduler.png
    - **Показать планировщик задач**:
      - Откройте планировщик задач через комбинацию клавиш `WIN + R` и введите команду `taskschd.msc`.
