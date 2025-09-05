@@ -18,13 +18,13 @@
 ## 2. Сборка для SA-MP
 
 1. **Скачивание сборки**:
-   - Для упрощения процесса записи используйте специальную сборку без лишних файлов, доступную по ссылке: [скачать сборку](https://drive.google.com/file/d/1rCPmBDQeumQynaB62TiQXMzTN4PG-V77/view?usp=sharing).
+   - Для упрощения процесса записи используйте специальную сборку без лишних файлов, доступную по ссылке: [скачать сборку](https://drive.google.com/file/d/1q8ZHax5jRnDBpGVec1izmrUwwNReM-da/view?usp=sharing).
    - Сборку необходимо сохранить в оригинальном виде без изменений, чтобы при записи опровержения её можно было распаковать без каких-либо изменений.
 
 2. **Проверка хеш-сумм**:
    - Сборка должна соответствовать следующим хеш-суммам:
-     - MD5: `b2f07afc5b400ca664302c13bb0e657b`
-     - SHA256: `35f78bbaf989bd85dd86da9f9bdd79ac12059ada5b6c8f06f9cde154f43fdcf5`
+     - MD5: `F5177A4B14AE9E052AEAD5D3881A06C3`
+     - SHA256: `06FE5FF15D7F7095CE16F836587071AB70DDC1FA659C13C5492C29DA17D0A28A`
    - **Этапы**:
      1. Для подтверждения оригинальности сборки загрузите архив со сборкой на [VirusTotal](https://www.virustotal.com). Откройте вкладку “Details” и проверьте хеши.
       ![discord](https://github.com/somearchive/sa-mp-proof-i-m-legit/blob/main/pictures/discord.png)
